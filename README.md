@@ -29,6 +29,11 @@ Rather than specializing in a single narrow role, I focus on how systems are bui
 - Routing, switching, VLANs, subnetting and network design
 - Understanding how networks operate, fail and are attacked
 
+### Operating Systems
+- Linux and Windows fundamentals for security and administration
+- Understanding OS internals, processes, permissions and system behavior
+- Using operating systems as the foundation for networking, security and forensics
+
 ### Programming & Automation
 - Python for scripting, automation and security-related tasks
 - Understanding code logic, data flow and system interaction
